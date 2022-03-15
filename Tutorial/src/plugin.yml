@@ -1,0 +1,11 @@
+name: Title
+version: 1.0
+author: Matys
+main: com.matys.title.Title
+api-version: 1.14
+
+commands:
+  setTitle:
+    description: Your description
+    usage: /setTitle title titleColor NameColor
+    permission: title.settitle
